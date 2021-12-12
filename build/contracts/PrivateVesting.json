@@ -1,0 +1,117 @@
+{
+  "contractName": "PrivateVesting",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.10+commit.fc410830\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/PrivateVesting.sol\":\"PrivateVesting\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/PrivateVesting.sol\":{\"keccak256\":\"0x223879d3a5491833d5dd14193196b128375814afb8b69b19da8120954dfc602e\",\"urls\":[\"bzz-raw://1e867ca7d314f4c1a77170057affa98590871ce7cd0fa8634907e29a88377951\",\"dweb:/ipfs/QmUzCkFFFFuJbHxuXehCHfW8UiP5W7XG65cYjPSA2yJ9qV\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122069b8f7c43db8fc9028a6db32a7abaa1e279cce798287213f6069324c633989be64736f6c634300080a0033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122069b8f7c43db8fc9028a6db32a7abaa1e279cce798287213f6069324c633989be64736f6c634300080a0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "28:34:8:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "28:34:8:-:0;;;;;",
+  "source": "pragma solidity ^0.8.10;\r\n\r\ncontract PrivateVesting {\r\n    \r\n}",
+  "sourcePath": "G:\\Project\\freelancer\\FidoMeta\\Fidometa\\contracts\\PrivateVesting.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/PrivateVesting.sol",
+    "exportedSymbols": {
+      "PrivateVesting": [
+        965
+      ]
+    },
+    "id": 966,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 964,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".10"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:8"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "PrivateVesting",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 965,
+        "linearizedBaseContracts": [
+          965
+        ],
+        "name": "PrivateVesting",
+        "nameLocation": "37:14:8",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 966,
+        "src": "28:34:8",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:62:8"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/PrivateVesting.sol",
+    "exportedSymbols": {
+      "PrivateVesting": [
+        965
+      ]
+    },
+    "id": 966,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 964,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".10"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:8"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "PrivateVesting",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 965,
+        "linearizedBaseContracts": [
+          965
+        ],
+        "name": "PrivateVesting",
+        "nameLocation": "37:14:8",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 966,
+        "src": "28:34:8",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:62:8"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.10+commit.fc410830.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.3",
+  "updatedAt": "2021-12-08T05:52:08.433Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}

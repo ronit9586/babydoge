@@ -1,0 +1,27 @@
+{
+  "name": "fidometa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "big-number": "^2.0.0",
+    "chai": "^4.3.4",
+    "global": "^4.4.0",
+    "truffle-assertions": "^0.9.2",
+    "web3": "^1.6.1",
+    "@truffle/hdwallet-provider": "^1.1.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.18"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
